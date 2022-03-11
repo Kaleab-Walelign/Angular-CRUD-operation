@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Electronics",
+      "freshness": "Brand new",
+      "price": 1100,
+      "comment": "New Brand Iphone ",
+      "date": "2022-03-06T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 12,
+      "comment": "Fresh Mango Fruit",
+      "date": "2022-02-28T21:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
